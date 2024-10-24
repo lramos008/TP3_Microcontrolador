@@ -1,2 +1,5 @@
 Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Voltage_Supply.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Programming_Pins|SchDesignator=Programming_Pins|FileName=Programming_Pins.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Programming_Pins.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Voltage_Supply|SchDesignator=Voltage_Supply|FileName=Voltage_Supply.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Voltage_Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Voltage_Supply.SchDoc|Designator=Buck_Converter|SchDesignator=Buck_Converter|FileName=Buck_Converter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Buck_Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Voltage_Supply.SchDoc|Designator=LDO_1|SchDesignator=LDO_1|FileName=LDO_1.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LDO_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
