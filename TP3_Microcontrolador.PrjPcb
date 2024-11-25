@@ -1611,6 +1611,18 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=I2C_SCL|NetColor=$008D96A6
+Net2=NetName=I2C_SDA|NetColor=$008D96A6
+Net3=NetName=RS232_RX|NetColor=$006EA300
+Net4=NetName=RS232_TX|NetColor=$006EA300
+Net5=NetName=UART_RX|NetColor=$006EA300
+Net6=NetName=UART_TX|NetColor=$006EA300
+Net7=NetName=USB_BUS_N|NetColor=$00CA9C00
+Net8=NetName=USB_BUS_P|NetColor=$00CA9C00
+Net9=NetName=USB_CONN_N|NetColor=$00CA9C00
+Net10=NetName=USB_CONN_P|NetColor=$00CA9C00
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
